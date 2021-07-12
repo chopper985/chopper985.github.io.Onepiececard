@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932218309664",
+    "project_id": "onepiececard-86209",
+    "storage_bucket": "onepiececard-86209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932218309664:android:f03a21e1f75d9ec9a90045",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932218309664-fsj7lrdoldnoma1qrr0r5d0ra5auuvpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCxOWPHUm_E7VoGVe_JKkv9NwVIdTqRdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932218309664-fsj7lrdoldnoma1qrr0r5d0ra5auuvpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
